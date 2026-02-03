@@ -34,13 +34,12 @@
     * 基于深度学习卷积神经网络 (CNN)，实现端到端的高实时性人脸检测与多维度情绪分析。
     * 应用模型量化技术，提升在嵌入式端的推理速度。
 
----
-
-### 📊 GitHub 统计 (Stats)
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[你的ID]&show_icons=true&theme=tokyonight)
 
 ---
 
 ### 📫 联系我 (Connect with me)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:2452031979@qq.com)
 [![QQ](https://img.shields.io/badge/QQ-12B7F5?style=flat-square&logo=tencent-qq&logoColor=white)](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=2452031979)
+
+- **Email**: 2452031979@qq.com
+- **QQ**: 2452031979
